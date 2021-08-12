@@ -1,0 +1,6 @@
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/expect v0.0.0-20191209053905-1fe4c9394a8a h1:vt+MDYAsRPsJSRWY9m6ll8NEU3NR1H6uPuoTxkRwyyk=
+github.com/pkg/expect v0.0.0-20191209053905-1fe4c9394a8a/go.mod h1:FWZrgn7FR+z4swTr6vGIJQu0ZPLHThpHDSTgzlIOQ9Y=
+github.com/pkg/math v0.0.0-20141027224758-f2ed9e40e245 h1:gk/AF9SGRj+RafNCoDcS3RRscb8S4BVbvqODOgWA7/8=
+github.com/pkg/math v0.0.0-20141027224758-f2ed9e40e245/go.mod h1:2dhPPj2Li3DXrSY2U2ADdZy2B7sjQsT57lqENx1+FSE=
